@@ -1,5 +1,5 @@
 /*************************************************************
-* .off to .obj converter
+* .obj to .off converter
 * Student: Fu Hao(20N8100013G)
 * Chuo University
 * Information and System Engineering
